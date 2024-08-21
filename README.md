@@ -1,2 +1,2 @@
-# Dragon-Ball---Temu-Clone
-Desarrollo de Temu Clone utilizando React - Tailwind - MongoDB 
+# Dragon-Ball-Temu-Clone
+Desarrollo de un clon de temu utilizando React - Tailwind - MongoDB 
